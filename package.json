@@ -22,7 +22,7 @@
     "server"
   ],
   "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
-  "license": "MIT",
+  "license": "GPL-2.0",
   "dependencies": {
     "commander": "^2.9.0",
     "nodeify": "^1.0.0"
