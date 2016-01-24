@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_openttdlib",
+  "version": "0.0.1",
+  "description": "Get information of a OpenTTD server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nottdlib": "./cli.js"
+  },
+  "keywords": [
+    "OpenTTD",
+    "server"
+  ],
+  "author": "Pieter Scheffers",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nodeify": "^1.0.0"
+  }
+}
