@@ -9,11 +9,19 @@
   "bin": {
     "nottdlib": "./cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterScheffers/node_openttdlib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PieterScheffers/node_openttdlib/issues"
+  },
+  "homepage": "https://github.com/PieterScheffers/node_openttdlib#readme",
   "keywords": [
     "OpenTTD",
     "server"
   ],
-  "author": "Pieter Scheffers",
+  "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0",
