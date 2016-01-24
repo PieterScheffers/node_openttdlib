@@ -31,7 +31,7 @@ npm install nodejs_openttdlib
 ```
 
 ```javascript
-let nottdlib = require('nodejs_openttdlib');
+const nottdlib = require('nodejs_openttdlib');
 
 // promises
 nottdlib.getServerInfo()
