@@ -1,6 +1,6 @@
 {
   "name": "nodejs_openttdlib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get information of a OpenTTD server",
   "main": "node_openttdlib.js",
   "scripts": {
