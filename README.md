@@ -24,6 +24,12 @@ nottdlib [options]
 
 ## Require
 
+### Local install
+
+```sh
+npm install nodejs_openttdlib
+```
+
 ```javascript
 let nottdlib = require('nodejs_openttdlib');
 
