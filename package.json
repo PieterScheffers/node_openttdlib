@@ -2,7 +2,7 @@
   "name": "nodejs_openttdlib",
   "version": "0.0.1",
   "description": "Get information of a OpenTTD server",
-  "main": "index.js",
+  "main": "node_openttdlib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

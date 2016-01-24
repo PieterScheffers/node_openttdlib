@@ -3,7 +3,7 @@
 "use strict";
 
 let program = require('commander');
-const serverInfo = require('./openttdlib');
+const serverInfo = require('./node_openttdlib');
 
 // specify command line options with commander
 program
