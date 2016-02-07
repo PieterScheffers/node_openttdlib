@@ -1,4 +1,4 @@
-# node_openttdlib
+# nodejs_openttdlib
 Node.js version of OpenTTDLib
 
 ## Synopsis
