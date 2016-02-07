@@ -8,6 +8,12 @@ With it you can extract information from a [OpenTTD](https://www.openttd.org) se
 
 It is tested with the latest stable version of OpenTTD (1.5.3).
 
+## Install
+
+```
+npm i nodejs_openttdlib
+```
+
 ## CLI
 
 ### Global install
