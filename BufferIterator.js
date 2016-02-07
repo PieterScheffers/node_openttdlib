@@ -17,7 +17,7 @@ class BufferIterator {
     }
 
     goto(byteOffset) {
-        if( byteOffset > this.length ) {
+        if( byteOffset > this.length() ) {
             throw "ByteOffset cannot be more as the length of the buffer";
         }
 
