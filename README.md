@@ -6,6 +6,8 @@ Node.js version of OpenTTDLib
 This is a node.js version of [OpenTTDLib](https://theyosh.nl/speeltuin/OpenTTDLib-0.3.2/docs/li_OpenTTDLib.html). 
 With it you can extract information from a [OpenTTD](https://www.openttd.org) server.
 
+It is tested with the latest stable version of OpenTTD (1.5.3).
+
 ## CLI
 
 ### Global install
